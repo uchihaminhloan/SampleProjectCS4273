@@ -2,9 +2,8 @@
 
 Participants:
 
-- Leader: [Name - ID]
-- Member: [Name - ID]
-- Member: [Name - ID]
+- Leader: [Nguyen Thi Minh Loan - 20521542]
+
 
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
